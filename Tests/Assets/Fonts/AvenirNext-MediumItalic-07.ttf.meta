@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 3e147924884fd462f80faf9a4cbedb3f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Avenir Next
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0cae56d4e816248b1bcf2a8b76412d46, type: 3}
+  - {fileID: 12800000, guid: 4286ce4b8ecc4407aa3232980896c95d, type: 3}
+  - {fileID: 12800000, guid: f676ee95285834de8a7fb5a87b253e0b, type: 3}
+  - {fileID: 12800000, guid: 2c4383f74fa0d4e2f9d3b868870629df, type: 3}
+  - {fileID: 12800000, guid: 79a4d9d8ccdec4812954b62287b9fb58, type: 3}
+  - {fileID: 12800000, guid: 9aaaac91735c84581a0f4cdab320a9b5, type: 3}
+  - {fileID: 12800000, guid: bcb4378fdd15e48c9baf806d3afcd552, type: 3}
+  - {fileID: 12800000, guid: b8f79c4863c514a6389d7f9773528f91, type: 3}
+  - {fileID: 12800000, guid: 0a72a288ed912445b9957165d31805ca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
